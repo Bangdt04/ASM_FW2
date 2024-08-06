@@ -1,0 +1,340 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "name": "Chiếu sáng",
+      "image": "/images/c1.png"
+    },
+    {
+      "id": 2,
+      "name": "Phân bón",
+      "image": "/images/c2.png"
+    },
+    {
+      "id": 3,
+      "name": "Đất & Substrate",
+      "image": "/images/c3.png"
+    },
+    {
+      "id": 4,
+      "name": "Tưới nước",
+      "image": "/images/c4.png"
+    },
+    {
+      "id": 5,
+      "name": "Chậu & Bình chứa",
+      "image": "/images/c5.png"
+    },
+    {
+      "id": 6,
+      "name": "Hộp trồng cây",
+      "image": "/images/c6.png"
+    },
+    {
+      "id": 7,
+      "name": "Cây & Làm vườn",
+      "image": "/images/c7.png"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "Chậu trồng cây vuông 0.27 đến 2 lít",
+      "desc": "Chậu đa năng cho các kích cỡ cây khác nhau.",
+      "longDesc": "Chậu trồng cây vuông của chúng tôi là biểu tượng của sự linh hoạt và độ bền, được thiết kế để phục vụ cho nhiều kích cỡ cây khác nhau, từ các loại thảo mộc nhạy cảm đến rau quả mạnh mẽ. Được chế tạo từ các vật liệu chất lượng cao, các chậu này đảm bảo thoát nước tốt và thông gió tối ưu, tạo điều kiện thuận lợi cho sự phát triển của rễ. Thiết kế sáng tạo kết hợp thẩm mỹ hiện đại với chức năng thực tiễn, làm cho chúng phù hợp cho cả môi trường trong nhà và ngoài trời. Dù được sử dụng trong một căn hộ ấm cúng hay một khu vườn rộng lớn, các chậu này dễ dàng hòa nhập vào bất kỳ trang trí nào trong khi vẫn cung cấp hiệu suất xuất sắc. Kết cấu chắc chắn đảm bảo độ bền lâu dài, làm cho chúng trở thành một bổ sung quý giá cho bất kỳ bộ công cụ làm vườn nào. Lý tưởng cho những người yêu thích làm vườn ở mọi cấp độ, các chậu này giúp đơn giản hóa việc chăm sóc cây trồng bằng cách cung cấp các điều kiện cần thiết cho sức khỏe và sự phát triển của cây, giảm thiểu bảo trì trong khi nâng cao vẻ đẹp của các chậu cây của bạn.",
+      "price": 125,
+      "discount": 50,
+      "image": "/images/product/anh1.png",
+      "images": [
+        "/images/product/ff1.png",
+        "/images/product/ff2.png",
+        "/images/product/ff3.png"
+      ],
+      "categoryId": 1,
+      "isBestSeller": true
+    },
+    {
+      "id": 2,
+      "name": "Chậu trồng cây tròn cổ điển",
+      "desc": "Chậu tròn thanh lịch cho nhiều công dụng.",
+      "longDesc": "Chậu trồng cây tròn của chúng tôi kết hợp sự thanh lịch với tính thực tiễn, được thiết kế để nâng cao vẻ đẹp và chức năng của bất kỳ không gian nào, trong nhà hay ngoài trời. Mỗi chậu được chế tạo từ các vật liệu cao cấp, đảm bảo độ bền và vẻ ngoài tinh tế phù hợp với nhiều phong cách trang trí khác nhau. Hình dạng tròn cung cấp không gian rộng rãi cho nhiều loại cây, từ cây hoa nhỏ đến cây bụi lớn hơn. Được thiết kế để thoát nước và phát triển rễ tối ưu, các chậu này giúp ngăn ngừa tình trạng nước bị giữ lại và thúc đẩy sự phát triển khỏe mạnh của cây. Thiết kế đa năng của chúng làm cho chúng phù hợp cho nhiều mục đích sử dụng khác nhau, cho dù bạn đang trưng bày những bông hoa rực rỡ trên hiên nhà của mình hay trồng các loại thảo mộc tươi trong nhà bếp của bạn. Hoàn thiện thanh lịch và cấu trúc chắc chắn mang đến cả sự hấp dẫn thẩm mỹ và độ tin cậy lâu dài, làm cho những chậu tròn này là lựa chọn thông minh cho bất kỳ người yêu thích làm vườn nào muốn nâng cao các chậu cây của mình.",
+      "price": 85,
+      "discount": 20,
+      "image": "/images/product/anh2.png",
+      "images": [
+        "/images/product/ff1.png",
+        "/images/product/ff2.png",
+        "/images/product/ff3.png"
+      ],
+      "categoryId": 5,
+      "isBestSeller": true
+    },
+    {
+      "id": 3,
+      "name": "Chậu treo hiện đại",
+      "desc": "Chậu treo phong cách cho trang trí hiện đại.",
+      "longDesc": "Biến đổi không gian trong nhà và ngoài trời của bạn với các chậu treo hiện đại của chúng tôi, được thiết kế để cung cấp cả phong cách và chức năng. Các chậu này có các móc treo điều chỉnh cho phép đặt chúng ở nhiều độ cao khác nhau, làm cho chúng lý tưởng để tạo ra các màn trưng bày cây động tại các độ cao khác nhau. Được chế tạo từ các vật liệu bền, chúng được xây dựng để chịu được các điều kiện thời tiết khác nhau, đảm bảo rằng chúng sẽ là một phần lâu dài trong trang trí của bạn. Thiết kế thanh lịch và đương đại thêm một nét tinh tế vào bất kỳ thiết lập nào, từ căn hộ đô thị đến vườn xanh. Mỗi chậu bao gồm hệ thống thoát nước thiết kế tốt để ngăn ngừa tưới quá nhiều và đảm bảo sự phát triển khỏe mạnh của cây. Lý tưởng để trưng bày nhiều loại cây, từ cây leo đến những bông hoa rực rỡ, các chậu treo này mang lại một cái nhìn hiện đại, tươi mới cho ngôi nhà hoặc khu vườn của bạn đồng thời cung cấp các lợi ích thực tiễn cho việc chăm sóc cây.",
+      "price": 95,
+      "discount": 15,
+      "image": "/images/product/anh3.png",
+      "images": [
+        "/images/product/ff1.png",
+        "/images/product/ff2.png",
+        "/images/product/ff3.png"
+      ],
+      "categoryId": 7,
+      "isBestSeller": true
+    },
+    {
+      "id": 4,
+      "name": "Chậu tự tưới Elite",
+      "desc": "Chậu sáng tạo với tính năng tự tưới.",
+      "longDesc": "Trải nghiệm việc chăm sóc cây trồng không mất công với các chậu tự tưới của chúng tôi, được thiết kế để đơn giản hóa quá trình duy trì cây khỏe mạnh. Các chậu này có hệ thống bể chứa tích hợp cung cấp một lượng nước liên tục cho rễ cây, giảm bớt việc tưới nước bằng tay thường xuyên. Cơ chế tự tưới đảm bảo rằng cây nhận được lượng độ ẩm tối ưu, ngăn ngừa các vấn đề phổ biến như tưới quá nhiều và tưới không đủ. Được chế tạo từ các vật liệu chất lượng cao, chống thời tiết, các chậu này phù hợp cho cả việc sử dụng trong nhà và ngoài trời, cung cấp độ bền và độ tin cậy lâu dài. Thiết kế thanh lịch không chỉ nâng cao vẻ đẹp của không gian của bạn mà còn bao gồm các tính năng thực tiễn như chỉ báo mức nước tích hợp để theo dõi dễ dàng. Lý tưởng cho những người bận rộn hoặc những người thường xuyên đi công tác, các chậu này giúp việc chăm sóc cây trở nên đơn giản và thuận tiện, đồng thời hỗ trợ cây trồng khỏe mạnh và phát triển.",
+      "price": 70,
+      "discount": 10,
+      "image": "/images/product/anh4.png",
+      "images": [
+        "/images/product/ff1.png",
+        "/images/product/ff2.png",
+        "/images/product/ff3.png"
+      ],
+      "categoryId": 1,
+      "isBestSeller": true
+    },
+    {
+      "id": 5,
+      "name": "Chậu gốm trang trí thanh lịch",
+      "desc": "Chậu gốm quyến rũ với các thiết kế trang trí.",
+      "longDesc": "Nâng cao trang trí nội thất của bạn với các chậu gốm trang trí quyến rũ của chúng tôi, được chế tạo để thêm một nét tinh tế và thanh lịch cho bất kỳ căn phòng nào. Mỗi chậu được làm từ gốm chất lượng cao và có các thiết kế tinh xảo phù hợp với nhiều phong cách trang trí khác nhau, từ truyền thống đến hiện đại. Có sẵn trong nhiều màu sắc và hoa văn, các chậu này rất lý tưởng để trưng bày nhiều loại cây, từ hoa tươi đến cây xanh. Vật liệu gốm bền chắc đảm bảo rằng các chậu này sẽ tồn tại lâu dài, trong khi vẻ đẹp thẩm mỹ của chúng nâng cao vẻ đẹp của ngôi nhà của bạn. Dải thiết kế và hoàn thiện phong phú cho phép bạn tìm thấy sự kết hợp hoàn hảo với trang trí nội thất của bạn, làm cho các chậu này là một bổ sung đa năng cho ngôi nhà của bạn. Dù được sử dụng như những điểm nhấn trang trí trong phòng khách, phòng ăn hay văn phòng của bạn, các chậu gốm này mang lại sự kết hợp hoàn hảo giữa chức năng và thẩm mỹ, giúp tạo nên một không gian ấm cúng và hấp dẫn.",
+      "price": 45,
+      "discount": 5,
+      "image": "/images/product/anh5.png",
+      "images": [
+        "/images/product/ff1.png",
+        "/images/product/ff2.png",
+        "/images/product/ff3.png"
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Bộ dụng cụ làm vườn đa năng",
+      "desc": "Bộ dụng cụ tất cả trong một cho việc làm vườn.",
+      "longDesc": "Trang bị cho mình với bộ dụng cụ làm vườn đa năng của chúng tôi, được thiết kế để cung cấp tất cả các công cụ cần thiết cho việc làm vườn hiệu quả và thú vị. Bộ dụng cụ này bao gồm các dụng cụ chất lượng cao như xẻng, cào, kéo cắt và găng tay, tất cả được thiết kế để cung cấp hiệu suất tối ưu và độ bền lâu dài. Mỗi công cụ được chế tạo từ vật liệu chống gỉ và chịu lực, làm cho chúng đủ mạnh để xử lý các công việc làm vườn đa dạng, từ trồng cây đến cắt tỉa. Thiết kế ergonomics của tay cầm giúp giảm căng thẳng và cải thiện sự thoải mái trong khi sử dụng, giúp việc làm vườn trở nên dễ dàng hơn. Bộ dụng cụ này là sự lựa chọn lý tưởng cho những người yêu thích làm vườn ở mọi cấp độ, cung cấp một giải pháp toàn diện cho các nhu cầu làm vườn của bạn và giúp tối ưu hóa hiệu quả và sự hài lòng trong quá trình chăm sóc cây trồng.",
+      "price": 55,
+      "discount": 10,
+      "image": "/images/product/anh6.png",
+      "images": [
+        "/images/product/ff1.png",
+        "/images/product/ff2.png",
+        "/images/product/ff3.png"
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Chậu Cây Gỗ Ngoài Trời Cao Cấp",
+      "desc": "Chậu cây bền chắc cho khu vườn của bạn.",
+      "longDesc": "Nâng cao trải nghiệm làm vườn ngoài trời của bạn với các chậu cây gỗ cao cấp của chúng tôi, được thiết kế để cung cấp cả chức năng và độ bền. Những chậu cây này được làm từ gỗ chất lượng cao đã được xử lý để chống lại thời tiết và đảm bảo tuổi thọ lâu dài. Khoang bên trong rộng rãi cung cấp không gian đủ cho rễ cây, hỗ trợ sự phát triển và tăng trưởng khỏe mạnh. Vẻ ngoài gỗ tự nhiên mang lại một nét cổ điển cho khu vườn của bạn, trong khi thiết kế chắc chắn đảm bảo rằng các chậu cây này có thể chịu đựng nhiều loại cây và kích thước khác nhau. Dù bạn trồng hoa rực rỡ, thảo mộc thơm hay rau củ dinh dưỡng, những chậu cây này cung cấp một giải pháp đáng tin cậy và hấp dẫn cho nhu cầu trồng cây ngoài trời của bạn. Thiết kế cổ điển và cấu trúc bền bỉ làm cho chúng trở thành một bổ sung đa năng cho bất kỳ khu vườn hoặc sân hiên nào.",
+      "price": 155,
+      "discount": 30,
+      "image": "/images/product/f3.png",
+      "images": [
+        "/images/product/ff1.png",
+        "/images/product/ff2.png",
+        "/images/product/ff3.png"
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Chậu Cây Gỗ Ngoài Trời Đẳng Cấp",
+      "desc": "Chậu cây gỗ thanh lịch cho bất kỳ không gian ngoài trời nào.",
+      "longDesc": "Chậu cây gỗ đẳng cấp của chúng tôi được thiết kế để thêm một nét tinh tế cho bất kỳ môi trường ngoài trời nào. Được làm từ gỗ chất lượng cao, những chậu cây này mang đến cả độ bền và vẻ đẹp hình thức, làm cho chúng trở thành lựa chọn lý tưởng cho nhiều ứng dụng làm vườn. Thiết kế cổ điển và vẻ ngoài gỗ tự nhiên bổ sung cho bất kỳ trang trí khu vườn hoặc sân hiên nào, trong khi cấu trúc chắc chắn đảm bảo rằng các chậu cây này có thể chịu đựng các yếu tố thời tiết và cung cấp hiệu suất lâu dài. Với không gian rộng rãi cho rễ cây và hệ thống thoát nước hiệu quả, những chậu cây này hỗ trợ sự phát triển khỏe mạnh của cây và làm tăng vẻ đẹp của không gian ngoài trời của bạn. Dù bạn đang tạo ra một màn hình hoa rực rỡ hay trồng rau củ, những chậu cây gỗ đẳng cấp này cung cấp một giải pháp phong cách và chức năng cho tất cả các nhu cầu làm vườn của bạn.",
+      "price": 165,
+      "discount": 30,
+      "image": "/images/product/f4.png",
+      "images": [
+        "/images/product/ff1.png",
+        "/images/product/ff2.png",
+        "/images/product/ff3.png"
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Chậu Cây Gỗ Ngoài Trời Cao Cấp Nhất",
+      "desc": "Chậu cây chất lượng cao cho khu vực ngoài trời của bạn.",
+      "longDesc": "Nâng cao việc làm vườn ngoài trời của bạn với các chậu cây gỗ cao cấp nhất của chúng tôi, được thiết kế cho cả thẩm mỹ và độ bền. Được chế tạo từ gỗ chất lượng cao, chống thời tiết, những chậu cây này được xây dựng để chịu đựng các yêu cầu khắt khe của việc sử dụng ngoài trời trong khi vẫn giữ được vẻ đẹp thanh lịch của chúng. Khoang bên trong rộng rãi cung cấp nhiều không gian cho rễ cây, thúc đẩy sự phát triển và tăng trưởng khỏe mạnh. Vẻ ngoài gỗ tự nhiên thêm một nét cổ điển cho khu vườn hoặc sân hiên của bạn, làm cho những chậu cây này trở thành một bổ sung phong cách cho bất kỳ không gian ngoài trời nào. Với hệ thống thoát nước hiệu quả và cấu trúc chắc chắn, những chậu cây này lý tưởng cho việc trồng nhiều loại cây, từ hoa sắc màu đến rau củ dinh dưỡng. Chất lượng vượt trội và thiết kế vượt thời gian của chúng làm cho chúng trở thành một khoản đầu tư quý giá để nâng cao môi trường ngoài trời của bạn.",
+      "price": 170,
+      "discount": 30,
+      "image": "/images/product/f5.png",
+      "images": [
+        "/images/product/ff1.png",
+        "/images/product/ff2.png",
+        "/images/product/ff3.png"
+      ]
+    }
+  ],
+  "reviewSummary": {
+    "1": 5,
+    "2": 10,
+    "3": 15,
+    "4": 20,
+    "5": 25
+  },
+  "reviews": [
+    {
+      "id": 1,
+      "name": "Aman Gupta",
+      "rating": 5,
+      "reviews": "Tôi đã sử dụng sản phẩm này khoảng năm hoặc sáu tháng và mụn của tôi gần như đã biến mất hoàn toàn. Tôi đã gặp khó khăn trong nhiều năm với làn da của mình và đã thử mọi thứ có thể, nhưng đây là sản phẩm duy nhất giúp làm sạch làn da của tôi. Tôi hoàn toàn khuyên bạn nên sử dụng và chắc chắn sẽ tiếp tục sử dụng.",
+      "image": "/images/product/anh1.png",
+      "date": "2023-06-15",
+      "likes": 120,
+      "comments": [
+        {
+          "user": "John Doe",
+          "comment": "Tôi đồng ý, sản phẩm này thật tuyệt vời!",
+          "userImage": "/images/users/user1.png"
+        },
+        {
+          "user": "Jane Smith",
+          "comment": "Bạn có gặp phải tác dụng phụ nào không?",
+          "userImage": "/images/users/user2.png"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Emma Brown",
+      "rating": 4,
+      "reviews": "Sản phẩm tốt, nhưng hơi đắt.",
+      "image": "/images/product/anh2.png",
+      "date": "2023-07-01",
+      "likes": 85,
+      "comments": [
+        {
+          "user": "Alice Johnson",
+          "comment": "Hoàn toàn xứng đáng với giá tiền!",
+          "userImage": "/images/users/user3.png"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Michael Lee",
+      "rating": 3,
+      "reviews": "Tạm được, nhưng tôi đã sử dụng sản phẩm tốt hơn.",
+      "image": "/images/product/anh3.png",
+      "date": "2023-08-10",
+      "likes": 45,
+      "comments": []
+    },
+    {
+      "id": 4,
+      "name": "Sophia Davis",
+      "rating": 2,
+      "reviews": "Không như tôi mong đợi. Sản phẩm không hiệu quả với tôi.",
+      "image": "/images/product/anh4.png",
+      "date": "2023-09-20",
+      "likes": 30,
+      "comments": [
+        {
+          "user": "Michael Johnson",
+          "comment": "Rất tiếc khi nghe điều đó. Bạn đã thử các phương án khác chưa?",
+          "userImage": "/images/users/user4.png"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Olivia Martinez",
+      "rating": 1,
+      "reviews": "Trải nghiệm tồi tệ. Sản phẩm gây ra phát ban.",
+      "image": "/images/product/anh5.png",
+      "date": "2023-10-05",
+      "likes": 10,
+      "comments": []
+    },
+    {
+      "id": 6,
+      "name": "Ethan Clark",
+      "rating": 4,
+      "reviews": "Sản phẩm tuyệt vời với kết quả rõ ràng.",
+      "image": "/images/product/anh6.png",
+      "date": "2023-11-01",
+      "likes": 65,
+      "comments": [
+        {
+          "user": "Linda Brown",
+          "comment": "Mất bao lâu để bạn thấy kết quả?",
+          "userImage": "/images/users/user5.png"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Liam Lewis",
+      "rating": 5,
+      "reviews": "Hoàn toàn yêu thích! Sẽ mua lại.",
+      "image": "/images/product/anh7.png",
+      "date": "2024-01-15",
+      "likes": 150,
+      "comments": [
+        {
+          "user": "Emma Davis",
+          "comment": "Bạn thích điều gì nhất về sản phẩm này?",
+          "userImage": "/images/users/user6.png"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Isabella Walker",
+      "rating": 3,
+      "reviews": "Bình thường. Không có gì đặc biệt.",
+      "image": "/images/product/anh8.png",
+      "date": "2024-02-10",
+      "likes": 40,
+      "comments": []
+    },
+    {
+      "id": 9,
+      "name": "Noah Young",
+      "rating": 2,
+      "reviews": "Không hiệu quả với loại da của tôi.",
+      "image": "/images/product/anh9.png",
+      "date": "2024-03-25",
+      "likes": 25,
+      "comments": [
+        {
+          "user": "Sarah White",
+          "comment": "Bạn đã tư vấn với bác sĩ da liễu chưa?",
+          "userImage": "/images/users/user7.png"
+        }
+      ]
+    }
+  ],
+  "users": [
+    {
+      "email": "hoa2k4bh3@gmail.com",
+      "password": "$2a$10$KYCHL8oxas4mVKcJm9BRQOK3nn9KePNMLNYext3/5xSiK2vJ8JuEe",
+      "username": "1212",
+      "id": 1
+    },
+    {
+      "email": "hoa2k4bh1@gmail.com",
+      "password": "$2a$10$ByfXMwmbq4OSYvnFqxtXO.9zUBhkELIoQ6zKRcv2Kj4d4r.o6ycJa",
+      "id": 2
+    },
+    {
+      "email": "admin@gmail.com",
+      "password": "$2a$10$PpCN.5NERMY3QwBiQXPqJ.e8ZhUqDSIU1JM64667l2IVzLaUPPH66",
+      "confirmPassword": "123456",
+      "id": 3
+    },
+    {
+      "email": "bangadmin@gmail.com",
+      "password": "$2a$10$lft6SnO5URMPob99esMEke8IU5AlYBTRemgneiZBJoyRZyGqvBFx2",
+      "confirmPassword": "123456",
+      "id": 4
+    }
+  ]
+}

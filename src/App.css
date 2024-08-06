@@ -1,0 +1,8 @@
+
+.slider-container .slick-arrow.slick-prev {
+  left: 20px !important;
+  z-index: 1;
+}
+.slider-container .slick-dots {
+  display: none !important;
+}
